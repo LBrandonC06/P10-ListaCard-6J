@@ -16,4 +16,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Getting Started: FlutLab - Flutter Online IDE
 
 - Propiedades de ListView [https://flutlab.io/docs](https://codesinsider.com/flutter-listview-example/)
-- Luis Brandon Cristobal 
+- Luis Brandon Cristobal .
+
+- RESULTADO
+- ![image](https://github.com/LBrandonC06/P10-ListaCard-6J/assets/143548973/6636c412-963b-4626-bcb0-eeb15db79672)
+
+
